@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839350004375",
+    "project_id": "motoshield",
+    "storage_bucket": "motoshield.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839350004375:android:cdc7e9491931f4cd79d7d2",
+        "android_client_info": {
+          "package_name": "com.motoshield.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbPE20QUWewg8ZSIdqXYLHpXnCDp35Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

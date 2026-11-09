@@ -1,0 +1,11 @@
+{
+  "name": "motoshield-functions",
+  "description": "Cloud Functions for MOTOSHIELD — delivers real push notifications to emergency contacts",
+  "engines": { "node": "20" },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^6.0.1"
+  },
+  "private": true
+}
